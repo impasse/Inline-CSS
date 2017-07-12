@@ -1,6 +1,6 @@
 # Inline-CSS
 
-> Convert css external url to DataURI
+> Convert the resources with external url of css to DataURI
 
 
 ### Usage
@@ -9,4 +9,4 @@ node index.js input.css
 
 
 ### Important
-**make sure your internet can reach those resources**
+**make sure your Internet can reach those resources**
